@@ -1,34 +1,39 @@
-#Api TeleBeyond
+#سورس_New_devil_اقوى السورسات التلي
 
-**An advanced and powerful administration api bot based on TeleSeed licensed under the [GNU General Public License](https://github.com/solid021/Api-TeleBeyond/blob/master/LICENSE)**.
+**An advanced and powerful administration api bot based on TeleSeed**
 
-#[Api-TeleBeyond Development](https://telegram.me/joinchat/CVyJuz6_PJBUrk_w--1JXw)
+#[cannel NEW_DEVIL Development](https://telegram.me/help_telp)
 #Join Please :)
 
 #Don't Forget Star To Us ;)
-
+ل تنصيب السورس اتبع التعليماتّ
 # Lets Install :D
 
 ```sh
-# Install dependencies.
-# Tested on Ubuntu 14.04. For other OSs, check out
+اولا 
+sudo apt-get update
+ثانيا
+
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-cd $HOME
-git clone http://Github.com/BeyondTeam/Api-TeleBeyond.git
-cd Api-TeleBeyond
+و هذني خليهن ب كود واحد
+git clone http://Github.com/jozeff3/New_devil.git
+cd New_devil
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh
 
 And Enter Your Bot Token :D
+و بعدين ح يطلب توكن بوتك و مبروك عليك لبوت
 ```
-### One command
-To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
+###لتنصيب ب خطوة وحدة
 ```sh
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/BeyondTeam/Api-TeleBeyond.git && cd Api-TeleBeyond && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make autoconf unzip git redis-server g++ -y --force-yes && git clone https://github.com/jozeff3/New_devil.git && cd New_devil && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
-### Realm configuration
+###ملاحظة مهمة
+اول ما تخلص وكف البوت و خلي الايدي مالتك ب config.lua
+و شغل البوت و اكتب redis-server ب ترمنل جديد
+وسوي ران للانش و شكرا
 
 After you run the bot for first time, send it `!id`. Get your ID and stop the bot.
 
@@ -40,25 +45,17 @@ Put Your Telegram ID In ./data/config.lua
   }
 ```
 Then restart the bot.
+فريق العمل
 
 #Sudo Users :
 
-#([SoLiD](https://telegram.me/SoLiD021))
+#([™ Ĵǿz̮̤̅̈єƑ Ĵǿи̮̲̣̅̐є || ﺸۑطْﺂ̣̥̐ﻧـ ](https://telegram.me/jozef3))
 
-#([Behnam](https://telegram.me/idivaNmanheB))
+#([حموشي](https://telegram.me/))
 
 #Team Channel :
 
-#([@BeyondTeam](https://telegram.me/BeyondTeam))
+#([@help_telp](https://telegram.me/help_telp))
 
-#Special Thx To :
-
-#([MrHalix](https://telegram.me/MrHalix))
-
-Seed Team
-
-TelePro Team
-
-And All My Friends
 
 #Good Luck :D
